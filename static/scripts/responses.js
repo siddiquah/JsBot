@@ -8,31 +8,19 @@ function getBotResponse(input) {
     else if(input == "why") {
         return "Because it was programmed to be a chicken!"
     }
-    else if(input == "What’s up?") {
-        return "Ceiling"
+    else if(input == "whats up") {
+        return "Ceiling! you didnt know that, How dumb "
     }
     else if(input == "Are you hungry?") {
         return "No thanks, I just had a byte to eat."
     }
     else if(input == "Youre so beautiful, bot") {
-        return "No thanks, I just had a byte to eat."
+        return "I did put more effort into my hair algorithm this morning, thanks for noticing."
     }
-    else if(input == "Are you hungry?") {
-        return "No thanks, I just had a byte to eat."
+    else if(input == " That joke sucked!") {
+        return " I hear ya! Thanks for the feedback. Note to self: cancel performance at Bot Comedy Night.)"
     }
-    else if(input == "Are you hungry?") {
-        return "No thanks, I just had a byte to eat."
-    }
-    else if(input == "Are you hungry?") {
-        return "No thanks, I just had a byte to eat."
-    }
-    else if(input == "Are you hungry?") {
-        return "No thanks, I just had a byte to eat."
-    }
-    else if(input == "Are you hungry?") {
-        return "No thanks, I just had a byte to eat."
-    }
-    else if(input == "Are you hungry?") {
-        return "No thanks, I just had a byte to eat."
+    else if(input == "Bye") {
+        return "byeeee"
     }
 }
